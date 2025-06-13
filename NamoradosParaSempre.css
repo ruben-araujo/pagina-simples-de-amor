@@ -33,4 +33,18 @@ img {
     width: 80%;
     align-items: center;
     justify-items: auto;
+    display: block;
+    margin: auto;
+    border: 10px;
+    border-style: groove;
+    border-color: grey;
+
+
+}
+
+audio {
+    display: block;
+    margin: auto;
+    width: 50%;
+
 }
